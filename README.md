@@ -6,7 +6,6 @@ MySQL database for managing bookstore operations including books, authors, custo
 ## Database Structure
 - 15 tables covering all bookstore operations
 - Proper relationships and foreign key constraints
-- Sample data for testing
 
 ## How to Use
 1. Run `database_schema.sql` to create the database structure
